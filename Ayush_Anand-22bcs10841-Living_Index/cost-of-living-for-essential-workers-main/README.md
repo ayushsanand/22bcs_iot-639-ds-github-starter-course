@@ -2,20 +2,7 @@
 Website URL:
 https://cse412-21w.github.io/cost-of-living-for-essential-workers/
 ## Team Members and Contribution
-Ellen Zhu (czhu22@uw.edu)
-- The introduction story, 'Average Hourly Income Per Capita' and 'Insight' sections; demo video editor
-
-Xuling Yang (xuliny@uw.edu)
-- The "about us" section; summarizes the project mission and design rationale; demo video editor
-
-Grant Yang (ley5@uw.edu)
-- Github repository management; website' front-end construction and media (HTML, CSS, JS); demo video; video scripts
-
-Jueyao Liu (jueyao99@uw.edu)
-- Cost of Living Index and Adjusted Poverty Level sections, demo video voiceover
-
-Tingting Yang (tingty@uw.edu)
-- Median Annual Wage in Major Cities visualization sections, categorizing essential workers’ occupation and data cleanup for  wage data, video voiceover
+Ayush Anand 22BCS10841@cuchd.in
 
 ## Project Proposal Abstract
 As the pandemic has shown, many workers essential to the functioning of cities are also some of our lowest paid. This interactive visualization design project intends to demonstrate how difficult it is to live as an essential worker in major U.S. cities to build a case for increasing the minimum wage. We will investigate the cost of living of select U.S. cities and compare them with the incomes these workers receive. The groups of interest include both the essential workers who generally receive minimum wage (e.g. restaurant workers, delivery drivers, etc.) and others who are paid higher than minimum wage (e.g. teachers, mail carriers, bus drivers, etc.). We would like to break down the cost of living through different measures such as housing prices or the Cost of Living Index to provide an overview of cities across the country. Also, we want to investigate how many hours an individual would have to work at those low-end wages to live a decent life in those cities either as a single person or as a parent supporting their families. If possible, we would also like to make comparisons highlighting the impacts of pandemic on the targeting community.
