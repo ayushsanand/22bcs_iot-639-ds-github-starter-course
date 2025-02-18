@@ -1,6 +1,6 @@
 # Cost Of Living for US Essential Workers
 Website URL:
-https://cse412-21w.github.io/cost-of-living-for-essential-workers/
+(https://github.com/ayushsanand/22bcs_iot-639-ds-github-starter-course.git)
 ## Team Members and Contribution
 Ayush Anand 22BCS10841@cuchd.in
 
